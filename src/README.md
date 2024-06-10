@@ -23,7 +23,7 @@ pip install -r .\dep.txt
 ````
 
 ## Arquitectuta de las carpetas
-
+````bash
 final-boss
 |——— data/
 |     |— raw/
@@ -46,6 +46,7 @@ final-boss
 |         |__ scraper.py
 |__ dep.txt
 |__ README.md
+````bash
 
 
 ## Ejecución del programa
