@@ -2,7 +2,7 @@
 
 En este proyecto realizamos scraping de datos de productos de un sitio web, limpia y analiza datos, y los guarda en un archivo CSV.
 
-## Requistos
+## Requisitos
 
 -Python 3.7+
 -pandas
@@ -46,7 +46,7 @@ final-boss
 |         |__ scraper.py
 |__ dep.txt
 |__ README.md
-````bash
+````
 
 
 ## Ejecución del programa
